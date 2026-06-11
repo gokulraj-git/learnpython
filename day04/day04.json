@@ -1,0 +1,12 @@
+[
+    {
+        "user_name": "Gokul",
+        "city": "Chennai"
+    }
+,
+ { 
+    "user_name":"Gokul", 
+    "city":"Chennai",
+    "gender":"male"
+ }
+]
